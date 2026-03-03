@@ -1,4 +1,4 @@
-# Agentic Delivery System (Beginner-Friendly)
+# Agentic Delivery System 
 
 ## Problem Statement
 This project simulates how a delivery platform (like Swiggy, fast-food delivery, or e-commerce last-mile) can make **coordinated operational decisions** using multiple software agents.
@@ -67,4 +67,4 @@ This foundation can be extended in multiple directions:
 - Add rider availability, traffic, and SLA constraints.
 - Introduce LLM-based explanation layer for operations teams.
 
-For an academic internship, this version is intentionally simple, explainable, and easy to present.
+
