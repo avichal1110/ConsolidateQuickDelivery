@@ -16,10 +16,6 @@ This system has four simple agents:
 
 This mirrors real operations where specialized components collaborate.
 
-## Why Synthetic Data?
-- No real data is required for this internship prototype.
-- Synthetic data is safer (no privacy issues).
-- It helps demonstrate logic clearly before adding complexity.
 
 The data in `data.py` is fully dummy and Swiggy-like in structure.
 
