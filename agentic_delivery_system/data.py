@@ -59,9 +59,7 @@ FLOAT_COLUMNS = {
 
 REQUIRED_COLUMNS = {"order_id", "timestamp", "area", "restaurant_id"}
 
-DEFAULT_DATASET_PATH = Path(
-    r"C:\Users\Achint Kumar\Downloads\delivery_massive_dataset_100k.csv"
-)
+DEFAULT_DATASET_PATH = Path(__file__).resolve().parent / "delivery_dataset.csv"
 
 
 def _parse_value(column, value):
