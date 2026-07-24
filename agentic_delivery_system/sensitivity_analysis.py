@@ -8,10 +8,10 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-from data import get_orders
+from agentic_delivery_system.data import get_orders
 from consolidation_agent import ConsolidationAgent
 from delivery_agent import DeliveryAgent
-from evaluate import evaluate_assignments
+from agentic_delivery_system.evaluate import evaluate_assignments
 
 
 def main():
